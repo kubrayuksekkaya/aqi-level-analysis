@@ -1,0 +1,782 @@
+pop2023,city,country,growthRate,type,rank
+37194104,Tokyo,Japan,-0.0021,w,1
+32941308,Delhi,India,0.0273,w,2
+29210808,Shanghai,China,0.0243,w,3
+23209616,Dhaka,Bangladesh,0.0325,w,4
+22619736,Sao Paulo,Brazil,0.0085,w,5
+22281442,Mexico City,Mexico,0.0089,w,6
+22183200,Cairo,Egypt,0.0199,w,7
+21766214,Beijing,China,0.0203,w,8
+21296516,Mumbai,India,0.016,w,9
+19013434,Osaka,Japan,-0.0024,w,10
+17340704,Chongqing,China,0.0276,w,11
+17236230,Karachi,Pakistan,0.0235,w,12
+16315534,Kinshasa,DR Congo,0.044,w,13
+15945912,Lagos,Nigeria,0.0363,w,14
+15847768,Istanbul,Turkey,0.0135,w,15
+15490415,Buenos Aires,Argentina,0.0078,w,16
+15332793,Kolkata,India,0.0131,w,17
+14667089,Manila,Philippines,0.0181,w,18
+14284353,Guangzhou,China,0.0229,w,19
+14238643,Tianjin,China,0.0162,w,20
+13979390,Lahore,Pakistan,0.0323,w,21
+13727720,Rio de Janeiro,Brazil,0.0069,w,22
+13607800,Bangalore,India,0.0314,w,23
+13072633,Shenzhen,China,0.0188,w,24
+12680389,Moscow,Russia,0.0031,w,25
+11776147,Chennai,India,0.0237,w,26
+11507960,Bogota,Colombia,0.0144,w,27
+11248839,Jakarta,Indonesia,0.0157,w,28
+11208440,Paris,France,0.0059,w,29
+11204382,Lima,Peru,0.0145,w,30
+11069982,Bangkok,Thailand,0.0156,w,31
+10801163,Hyderabad,India,0.0253,w,32
+9988049,Seoul,South Korea,0.0012,w,33
+9698464,Nanjing,China,0.0285,w,34
+9653772,Chengdu,China,0.0185,w,35
+9648110,London,United Kingdom,0.0113,w,36
+9569328,Nagoya,Japan,-0.0002,w,37
+9499781,Tehran,Iran,0.0126,w,38
+9320866,Ho Chi Minh City,Vietnam,0.0268,w,39
+9292336,Luanda,Angola,0.038,w,40
+8992908,New York City,United States,0.007,w,41
+8785174,Xi-an Shaanxi,China,0.029,w,42
+8718250,Wuhan,China,0.0147,w,43
+8650605,Ahmedabad,India,0.0237,w,44
+8621724,Kuala Lumpur,Malaysia,0.024,w,45
+8237206,Hangzhou,China,0.0239,w,46
+8074031,Suzhou,China,0.0399,w,47
+8064949,Surat,India,0.0361,w,48
+7775865,Dar es Salaam,Tanzania,0.0501,w,49
+7711305,Baghdad,Iraq,0.0265,w,50
+7684801,Hong Kong,Hong Kong,0.0054,w,51
+7682430,Riyadh,Saudi Arabia,0.0191,w,52
+7680967,Shenyang,China,0.0203,w,53
+7597386,Foshan,China,0.0134,w,54
+7587049,Dongguan,China,0.01,w,55
+7166374,Pune,India,0.0257,w,56
+6903392,Santiago,Chile,0.0068,w,57
+6803811,Haerbin,China,0.0207,w,58
+6751374,Madrid,Spain,0.0056,w,59
+6371958,Toronto,Canada,0.0093,w,60
+6344348,Khartoum,Sudan,0.0299,w,61
+6247889,Belo Horizonte,Brazil,0.0087,w,62
+6198016,Johannesburg,South Africa,0.0219,w,63
+6080859,Singapore,Singapore,0.0068,w,64
+6077995,Dalian,China,0.0249,w,65
+5986525,Qingdao,China,0.0207,w,66
+5859272,Zhengzhou,China,0.0297,w,67
+5806031,Ji-nan Shandong,China,0.0253,w,68
+5687356,Barcelona,Spain,0.0051,w,69
+5686350,Abidjan,Ivory Coast,0.0309,w,70
+5610241,Yangon,Myanmar,0.0174,w,71
+5588477,Alexandria,Egypt,0.0191,w,72
+5561294,Saint Petersburg,Russia,0.0046,w,73
+5490271,Fukuoka,Japan,-0.0022,w,74
+5460591,Addis Ababa,Ethiopia,0.0445,w,75
+5419880,Guadalajara,Mexico,0.015,w,76
+5397098,Ankara,Turkey,0.0165,w,77
+5379660,Chittagong,Bangladesh,0.0241,w,78
+5325160,Nairobi,Kenya,0.0403,w,79
+5253385,Hanoi,Vietnam,0.0367,w,80
+5235407,Melbourne,Australia,0.0164,w,81
+5120894,Sydney,Australia,0.0127,w,82
+5116647,Monterrey,Mexico,0.0159,w,83
+4921487,Changsha,China,0.0232,w,84
+4890280,Cape Town,South Africa,0.0186,w,85
+4873048,Brasilia,Brazil,0.0144,w,86
+4865038,Urumqi,China,0.0329,w,87
+4862941,Jiddah,Saudi Arabia,0.0172,w,88
+4761284,Kunming,China,0.0223,w,89
+4710382,Changchun,China,0.0204,w,90
+4615758,Hefei,China,0.0265,w,91
+4588666,Kabul,Afghanistan,0.0293,w,92
+4573713,Shantou,China,0.0186,w,93
+4537901,Ningbo,China,0.0301,w,94
+4509287,Yaounde,Cameroon,0.0398,w,95
+4504147,Xinbei,Taiwan,0.0075,w,96
+4420855,Tel Aviv,Israel,0.0178,w,97
+4370473,Shijiazhuang,China,0.0199,w,98
+4348481,Kano,Nigeria,0.0306,w,99
+4315671,Rome,Italy,0.0041,w,100
+4307958,Montreal,Canada,0.0073,w,101
+4263940,Recife,Brazil,0.0103,w,102
+4211933,Porto Alegre,Brazil,0.0063,w,103
+4207084,Jaipur,India,0.0244,w,104
+4206240,Fortaleza,Brazil,0.0102,w,105
+4191890,Nanning,China,0.026,w,106
+4145010,Taiyuan Shanxi,China,0.0207,w,107
+4118327,Ekurhuleni,South Africa,0.0182,w,108
+4102308,Medellin,Colombia,0.0085,w,109
+4088555,Kozhikode,India,0.0428,w,110
+4063200,Douala,Cameroon,0.0348,w,111
+4009087,Malappuram,India,0.0505,w,112
+3981658,Changzhou,China,0.0291,w,113
+3958384,Salvador,Brazil,0.0098,w,114
+3945409,Lucknow,India,0.0237,w,115
+3935484,Xiamen,China,0.0188,w,116
+3930586,Los Angeles,United States,0.0027,w,117
+3922202,Fuzhou Fujian,China,0.0204,w,118
+3920379,Nanchang,China,0.0268,w,119
+3919724,Wenzhou,China,0.0249,w,120
+3892837,Casablanca,Morocco,0.0137,w,121
+3874908,Ibadan,Nigeria,0.0315,w,122
+3872264,Antananarivo,Madagascar,0.0466,w,123
+3846102,Kampala,Uganda,0.0532,w,124
+3839646,Abuja,Nigeria,0.0514,w,125
+3814702,Tangshan Hebei,China,0.0329,w,126
+3813082,Curitiba,Brazil,0.0112,w,127
+3768239,Kumasi,Ghana,0.038,w,128
+3729351,Bekasi,Indonesia,0.0296,w,129
+3710845,Faisalabad,Pakistan,0.0237,w,130
+3580904,Guiyang,China,0.0243,w,131
+3573938,Berlin,Germany,0.0009,w,132
+3523890,Santo Domingo,Dominican Republic,0.0192,w,133
+3510511,Asuncion,Paraguay,0.0169,w,134
+3482456,Thrissur,India,0.0391,w,135
+3480101,Port Harcourt,Nigeria,0.0467,w,136
+3471949,Busan,South Korea,0.0011,w,137
+3437346,Wuxi,China,0.0182,w,138
+3429536,Dakar,Senegal,0.0311,w,139
+3422796,Campinas,Brazil,0.0113,w,140
+3406055,Kochi,India,0.0317,w,141
+3367852,Mashhad,Iran,0.0151,w,142
+3344761,Puebla,Mexico,0.0152,w,143
+3302077,Indore,India,0.0291,w,144
+3297759,Kuwait City,Kuwait,0.0183,w,145
+3297528,Lanzhou,China,0.022,w,146
+3292497,Sanaa,Yemen,0.0348,w,147
+3234160,Kanpur,India,0.0139,w,148
+3228003,Durban,South Africa,0.009,w,149
+3203923,Ouagadougou,Burkina Faso,0.0485,w,150
+3181250,Lusaka,Zambia,0.0458,w,151
+3157538,Pyongyang,North Korea,0.008,w,152
+3154570,Milan,Italy,0.0017,w,153
+3154463,Athens,Greece,0.0002,w,154
+3142466,Guayaquil,Ecuador,0.0162,w,155
+3095099,Guatemala City,Guatemala,0.0193,w,156
+3088414,Izmir,Turkey,0.0106,w,157
+3046687,Nagpur,India,0.0185,w,158
+3044413,Surabaya,Indonesia,0.013,w,159
+3041229,Depok,Indonesia,0.0337,w,160
+3016789,Kiev,Ukraine,0.0022,w,161
+3010685,Zhongshan,China,0.0124,w,162
+3009047,Coimbatore,India,0.0254,w,163
+3007583,Dubai,United Arab Emirates,0.0146,w,164
+3005409,Handan,China,0.03,w,165
+3000536,Lisbon,Portugal,0.0048,w,166
+2987455,Port-au-Prince,Haiti,0.0248,w,167
+2979893,Huaian,China,0.035,w,168
+2972145,Caracas,Venezuela,0.0052,w,169
+2937359,Shizuoka,Japan,0.0007,w,170
+2929373,Bamako,Mali,0.0399,w,171
+2917819,Weifang,China,0.0293,w,172
+2901810,Algiers,Algeria,0.0168,w,173
+2891746,Mbuji-Mayi,DR Congo,0.0458,w,174
+2891119,Thiruvananthapuram,India,0.0351,w,175
+2863730,Cali,Colombia,0.0095,w,176
+2848557,Incheon,South Korea,0.0051,w,177
+2848473,Goiania,Brazil,0.017,w,178
+2818100,Pretoria,South Africa,0.0286,w,179
+2811959,Lubumbashi,DR Congo,0.0433,w,180
+2805654,Shaoxing,China,0.0306,w,181
+2791005,Manchester,United Kingdom,0.0074,w,182
+2780142,Zibo,China,0.0176,w,183
+2764584,Yantai,China,0.028,w,184
+2761625,Chicago,United States,0.0018,w,185
+2758593,Huizhou,China,0.0277,w,186
+2754196,Taipei,Taiwan,0.0043,w,187
+2674000,Bandung,Indonesia,0.0136,w,188
+2666112,Sapporo,Japan,-0.0011,w,189
+2665100,Birmingham,United Kingdom,0.0074,w,190
+2660072,Accra,Ghana,0.021,w,191
+2657088,Vancouver,Canada,0.0097,w,192
+2637733,Brazzaville,Republic of the Congo,0.0333,w,193
+2626368,Toluca de Lerdo,Mexico,0.0197,w,194
+2610483,Mogadishu,Somalia,0.0453,w,195
+2603243,Tashkent,Uzbekistan,0.0115,w,196
+2602793,Luoyang,China,0.0271,w,197
+2584771,Damascus,Syria,0.0328,w,198
+2579762,Patna,India,0.02,w,199
+2564502,Bhopal,India,0.0237,w,200
+2514077,Tangerang,Indonesia,0.0236,w,201
+2504505,Brisbane,Australia,0.0131,w,202
+2492230,Nantong,China,0.0283,w,203
+2475446,Tunis,Tunisia,0.0148,w,204
+2439564,San Juan,Puerto Rico,-0.0012,w,205
+2439054,Medan,Indonesia,0.0154,w,206
+2432304,Baku,Azerbaijan,0.013,w,207
+2421354,Beirut,Lebanon,-0.0049,w,208
+2415416,Gujranwala,Pakistan,0.0267,w,209
+2411785,Peshawar,Pakistan,0.0296,w,210
+2409409,Belem,Brazil,0.01,w,211
+2380636,Hohhot,China,0.0296,w,212
+2377325,Rawalpindi,Pakistan,0.0214,w,213
+2375636,Manaus,Brazil,0.0149,w,214
+2367626,Maracaibo,Venezuela,0.015,w,215
+2367554,Agra,India,0.0232,w,216
+2366119,Houston,United States,0.0088,w,217
+2349400,Barranquilla,Colombia,0.0106,w,218
+2346137,Kannur,India,0.0261,w,219
+2343452,Liuzhou,China,0.025,w,220
+2342302,Sendai,Japan,0.001,w,221
+2334878,Baotou,China,0.0209,w,222
+2330928,Visakhapatnam,India,0.0233,w,223
+2324084,Vadodara,India,0.0206,w,224
+2318850,Taoyuan,Taiwan,0.0098,w,225
+2287166,Xuzhou,China,0.0208,w,226
+2281198,Phnom Penh,Cambodia,0.0315,w,227
+2259787,Tijuana,Mexico,0.0175,w,228
+2258396,Esfahan,Iran,0.0176,w,229
+2237369,Nashik,India,0.0262,w,230
+2232240,Amman,Jordan,0.0103,w,231
+2229765,Vijayawada,India,0.0287,w,232
+2203025,Aleppo,Syria,0.05,w,233
+2180997,Daegu,South Korea,-0.0016,w,234
+2179384,Naples,Italy,-0.0004,w,235
+2176022,Putian,China,0.0396,w,236
+2170513,Grande Vitoria,Brazil,0.0135,w,237
+2154600,Multan,Pakistan,0.0231,w,238
+2149928,Mecca,Saudi Arabia,0.0167,w,239
+2148930,Havana,Cuba,0.0015,w,240
+2131291,Yangzhou,China,0.0218,w,241
+2124797,Wuhu Anhui,China,0.0384,w,242
+2121992,Brussels,Belgium,0.0059,w,243
+2117997,Perth,Australia,0.0121,w,244
+2110937,Conakry,Guinea,0.0305,w,245
+2107539,Baoding,China,0.0211,w,246
+2106606,Kollam,India,0.0398,w,247
+2102143,Taizhou Zhejiang,China,0.0261,w,248
+2086324,Bursa,Turkey,0.0154,w,249
+2076364,Linyi Shandong,China,0.0224,w,250
+2067591,Hiroshima,Japan,-0.0023,w,251
+2057257,Minsk,Belarus,0.0042,w,252
+2043107,Rajkot,India,0.0274,w,253
+2016092,Haikou,China,0.0212,w,254
+2000656,Daqing,China,0.0235,w,255
+1993463,Yancheng Jiangsu,China,0.0217,w,256
+1987301,Almaty,Kazakhstan,0.0149,w,257
+1986439,Lianyungang,China,0.0273,w,258
+1983445,Valencia,Venezuela,0.0123,w,259
+1981615,Lome,Togo,0.0291,w,260
+1976866,Panama City,Panama,0.0201,w,261
+1975306,Semarang,Indonesia,0.0193,w,262
+1975271,Vienna,Austria,0.0078,w,263
+1967684,Hyderabad,Pakistan,0.0217,w,264
+1959388,Rabat,Morocco,0.0142,w,265
+1956995,Quito,Ecuador,0.0149,w,266
+1951085,Ludhiana,India,0.0179,w,267
+1949400,Davao City,Philippines,0.0218,w,268
+1947785,Baixada Santista,Brazil,0.0093,w,269
+1935619,La Paz,Bolivia,0.0146,w,270
+1928661,West Yorkshire,United Kingdom,0.0071,w,271
+1904631,Benin City,Nigeria,0.0345,w,272
+1898749,Leon de los Aldamas,Mexico,0.0135,w,273
+1889829,Zhuhai,China,0.023,w,274
+1873693,Datong,China,0.0228,w,275
+1869994,Quanzhou,China,0.0305,w,276
+1865172,Can Tho,Vietnam,0.0441,w,277
+1852405,Matola,Mozambique,0.0309,w,278
+1835895,Adana,Turkey,0.0118,w,279
+1834279,Madurai,India,0.0197,w,280
+1830858,Sharjah,United Arab Emirates,0.0253,w,281
+1820114,Santa Cruz,Bolivia,0.02,w,282
+1818421,Palembang,Indonesia,0.0186,w,283
+1816813,Raipur,India,0.032,w,284
+1804704,Gaziantep,Turkey,0.0176,w,285
+1801944,Turin,Italy,0.0019,w,286
+1797805,Meerut,India,0.0202,w,287
+1797516,Warsaw,Poland,0.0017,w,288
+1792020,Mosul,Iraq,0.0316,w,289
+1788871,Cixi,China,0.0324,w,290
+1787520,Hamburg,Germany,-0.0004,w,291
+1780592,La Laguna,Mexico,0.0293,w,292
+1778052,Budapest,Hungary,0.0016,w,293
+1776385,Bucharest,Romania,-0.005,w,294
+1774396,Montevideo,Uruguay,0.004,w,295
+1768511,Jiangmen,China,0.0163,w,296
+1761188,Lyon,France,0.0078,w,297
+1754425,Varanasi,India,0.0187,w,298
+1748142,Batam,Indonesia,0.0375,w,299
+1742706,Xiangyang,China,0.0171,w,300
+1720954,Shiraz,Iran,0.0132,w,301
+1716591,Yinchuan,China,0.0262,w,302
+1711244,Yichang,China,0.0308,w,303
+1700066,Stockholm,Sweden,0.0125,w,304
+1698277,Srinagar,India,0.0231,w,305
+1698088,Glasgow,United Kingdom,0.0054,w,306
+1695060,Jamshedpur,India,0.0202,w,307
+1694765,Novosibirsk,Russia,0.0051,w,308
+1689499,Anshan,China,0.0134,w,309
+1683389,Aurangabad,India,0.0255,w,310
+1680962,Qinhuangdao,China,0.0282,w,311
+1678020,Monrovia,Liberia,0.0342,w,312
+1677173,Tiruppur,India,0.0356,w,313
+1673220,Auckland,New Zealand,0.0126,w,314
+1673094,Makassar,Indonesia,0.0189,w,315
+1672627,Ulaanbaatar,Mongolia,0.0171,w,316
+1668785,Jilin,China,0.0144,w,317
+1666605,Xining,China,0.0251,w,318
+1664968,Suqian,China,0.0433,w,319
+1664442,Kananga,DR Congo,0.0449,w,320
+1661854,Hengyang,China,0.0265,w,321
+1660737,Tabriz,Iran,0.0102,w,322
+1656892,Phoenix,United States,0.0099,w,323
+1650319,Muscat,Oman,0.0171,w,324
+1642347,Anyang,China,0.0357,w,325
+1639613,Calgary,Canada,0.0175,w,326
+1635458,Qiqihaer,China,0.0164,w,327
+1627549,Marseille,France,0.0045,w,328
+1627134,Philadelphia,PA,0.0048,w,329
+1623382,Onitsha,Nigeria,0.0456,w,330
+1611651,Cordoba,Argentina,0.0086,w,331
+1594096,Rosario,Argentina,0.0126,w,332
+1593608,Karaj,Iran,0.0043,w,333
+1592324,N-Djamena,Chad,0.039,w,334
+1586547,Jodhpur,India,0.0249,w,335
+1582313,Ciudad Juarez,Mexico,0.0138,w,336
+1578128,Harare,Zimbabwe,0.0131,w,337
+1577436,Daejon,South Korea,0.0026,w,338
+1576416,Munich,Germany,0.0066,w,339
+1572571,Medina,Saudi Arabia,0.0176,w,340
+1571010,Kathmandu,Nepal,0.0328,w,341
+1569560,Jining Shandong,China,0.0169,w,342
+1568025,Tegucigalpa,Honduras,0.0271,w,343
+1566999,Abu Dhabi,United Arab Emirates,0.0176,w,344
+1552899,Gaoxiong,Taiwan,0.0038,w,345
+1547258,Ranchi,India,0.0242,w,346
+1544448,Edmonton,Canada,0.0168,w,347
+1536171,Zhangjiakou,China,0.0221,w,348
+1535316,Natal,Brazil,0.0157,w,349
+1531860,Mandalay,Myanmar,0.0208,w,350
+1529472,Gwangju,South Korea,0.002,w,351
+1527728,Yekaterinburg,Russia,0.0043,w,352
+1523629,Grande Sao Luis,Brazil,0.0083,w,353
+1522121,Jabalpur,India,0.0177,w,354
+1516795,Kota,India,0.0289,w,355
+1512668,Huainan,China,0.0173,w,356
+1505033,Asansol,India,0.0181,w,357
+1496298,Chaozhou,China,0.0161,w,358
+1491958,Nouakchott,Mauritania,0.0422,w,359
+1483320,Yiwu,China,0.0324,w,360
+1475016,Gwalior,India,0.0229,w,361
+1466791,San Antonio,United States,0.0074,w,362
+1465152,Allahabad,India,0.018,w,363
+1461989,San Jose,Costa Rica,0.0143,w,364
+1459678,Ganzhou,China,0.0384,w,365
+1454222,Chon Buri,Thailand,0.0129,w,366
+1451748,Amritsar,India,0.0187,w,367
+1448124,Basra,Iraq,0.0244,w,368
+1446810,Taizhou Jiangsu,China,0.0227,w,369
+1443429,Homs,Syria,0.0328,w,370
+1440396,Mombasa,Kenya,0.037,w,371
+1437233,Niamey,Niger,0.0385,w,372
+1437188,Ottawa,Canada,0.0102,w,373
+1431538,Zurich,Switzerland,0.0084,w,374
+1429315,Weihai,China,0.0284,w,375
+1424982,Jiaxing,China,0.0372,w,376
+1423395,Kisangani,DR Congo,0.0418,w,377
+1422974,Hai Phong,Vietnam,0.0296,w,378
+1421827,Joao Pessoa,Brazil,0.0099,w,379
+1421052,Kharkiv,Ukraine,-0.0016,w,380
+1416064,Taian Shandong,China,0.0187,w,381
+1413474,Queretaro,Mexico,0.0174,w,382
+1410791,San Diego,United States,0.0057,w,383
+1408144,Belgrade,Serbia,0.0021,w,384
+1407632,Konya,Turkey,0.0178,w,385
+1400250,Cochabamba,Bolivia,0.0229,w,386
+1398262,Kaifeng,China,0.0288,w,387
+1391258,Rizhao,China,0.0282,w,388
+1389776,Dhanbad,India,0.0162,w,389
+1381498,Bucaramanga,Colombia,0.0117,w,390
+1381005,Copenhagen,Denmark,0.0079,w,391
+1379377,Dongying,China,0.0247,w,392
+1378077,Liuan,China,0.0424,w,393
+1377572,Nanchong,China,0.0283,w,394
+1376453,Zunyi,China,0.0231,w,395
+1373523,Liuyang,China,0.0478,w,396
+1371998,Zhanjiang,China,0.0209,w,397
+1369066,Taizhong,Taiwan,0.0108,w,398
+1366783,Adelaide,Australia,0.0083,w,399
+1365352,Suweon,South Korea,0.0114,w,400
+1363510,Maceio,Brazil,0.0096,w,401
+1358871,Samut Prakan,Thailand,0.0129,w,402
+1354174,Qom,Iran,0.0156,w,403
+1354025,Shiyan,China,0.0271,w,404
+1351383,Mianyang Sichuan,China,0.0191,w,405
+1348664,Bareilly,India,0.024,w,406
+1348521,Joinville,Brazil,0.0107,w,407
+1347240,Antalya,Turkey,0.0215,w,408
+1337786,Helsinki,Finland,0.0075,w,409
+1336387,Pointe-Noire,Republic of the Congo,0.0323,w,410
+1336347,Dallas,United States,0.008,w,411
+1329291,Ad-Dammam,Saudi Arabia,0.0189,w,412
+1329284,Uyo,Nigeria,0.0511,w,413
+1324652,Porto,Portugal,0.0033,w,414
+1323339,Prague,Czech Republic,0.004,w,415
+1323174,Yingkou,China,0.0269,w,416
+1322916,Tengzhou,China,0.0324,w,417
+1314178,Tanger,Morocco,0.0289,w,418
+1312369,Aligarh,India,0.0264,w,419
+1310754,Mwanza,Tanzania,0.0524,w,420
+1310433,Suzhou,China,0.0345,w,421
+1309168,Freetown,Sierra Leone,0.0291,w,422
+1304565,Fushun Liaoning,China,0.0076,w,423
+1303900,Maoming,China,0.025,w,424
+1303355,Pekan Baru,Indonesia,0.0253,w,425
+1301740,Moradabad,India,0.0273,w,426
+1295928,Port Elizabeth,South Africa,0.012,w,427
+1294486,Florianopolis,Brazil,0.0133,w,428
+1293619,Ahvaz,Iran,0.0125,w,429
+1291884,Kazan,Russia,0.0042,w,430
+1291280,Astana,Kazakhstan,0.0299,w,431
+1290039,Fes,Morocco,0.0179,w,432
+1288245,Mysore,India,0.0215,w,433
+1288114,Sofia,Bulgaria,0.001,w,434
+1282479,Jieyang,China,0.0341,w,435
+1281790,Ruian,China,0.0286,w,436
+1276316,Lilongwe,Malawi,0.0442,w,437
+1273325,San Luis Potosi,Mexico,0.0151,w,438
+1270172,Dublin,Ireland,0.0113,w,439
+1266034,Durg-Bhilainagar,India,0.0173,w,440
+1261077,Baoji,China,0.0252,w,441
+1257941,Jinhua,China,0.0346,w,442
+1257642,Bhubaneswar,India,0.0258,w,443
+1256581,Pingdingshan Henan,China,0.0253,w,444
+1254519,Zhuzhou,China,0.0186,w,445
+1254192,Barquisimeto,Venezuela,0.0109,w,446
+1254160,Puning,China,0.0247,w,447
+1252890,Abomey-Calavi,Benin,0.054,w,448
+1252414,Chifeng,China,0.0232,w,449
+1251332,Nizhniy Novgorod,Russia,-0.0013,w,450
+1250668,Zhenjiang Jiangsu,China,0.0207,w,451
+1248783,Bukavu,DR Congo,0.0491,w,452
+1247551,Kigali,Rwanda,0.0325,w,453
+1242945,Maracay,Venezuela,0.0109,w,454
+1240926,Chelyabinsk,Russia,0.003,w,455
+1239186,Nnewi,Nigeria,0.0532,w,456
+1236271,Huaibei,China,0.0252,w,457
+1232447,Islamabad,Pakistan,0.0287,w,458
+1231445,Bogor,Indonesia,0.0202,w,459
+1230644,Liupanshui,China,0.0399,w,460
+1226427,Mendoza,Argentina,0.014,w,461
+1224629,Nanyang Henan,China,0.0223,w,462
+1223912,Xiangtan Hunan,China,0.0221,w,463
+1221960,Tiruchirappalli,India,0.0175,w,464
+1220634,Da Nang,Vietnam,0.0271,w,465
+1220603,Merida,Mexico,0.0162,w,466
+1216852,Benxi,China,0.0171,w,467
+1215376,Jinzhou,China,0.0196,w,468
+1214775,Chandigarh,India,0.0197,w,469
+1213778,Tasikmalaya,Indonesia,0.042,w,470
+1213348,Chiang Mai,Thailand,0.0129,w,471
+1207275,Pizhou,China,0.0383,w,472
+1206767,Bujumbura,Burundi,0.0593,w,473
+1200222,Binzhou,China,0.0313,w,474
+1197935,Luohe,China,0.0423,w,475
+1196841,Guilin,China,0.0181,w,476
+1190348,Quetta,Pakistan,0.0265,w,477
+1188803,Aba,Nigeria,0.0336,w,478
+1187398,Kaduna,Nigeria,0.0253,w,479
+1183292,Tripoli,Libya,0.0063,w,480
+1183042,Xiongan,China,0.0585,w,481
+1181194,Hubli-Dharwad,India,0.0197,w,482
+1180745,Omsk,Russia,-0.0003,w,483
+1178477,Mexicali,Mexico,0.0163,w,484
+1176330,Guwahati,India,0.0186,w,485
+1175989,Bazhong,China,0.0504,w,486
+1174429,Haifa,Israel,0.009,w,487
+1174025,Amsterdam,Netherlands,0.007,w,488
+1171689,Saharanpur,India,0.0333,w,489
+1169953,Salem,India,0.0206,w,490
+1169864,Yueqing,China,0.0302,w,491
+1166792,Krasnoyarsk,Russia,0.0069,w,492
+1162793,Maputo,Mozambique,0.0209,w,493
+1162242,Bandar Lampung,Indonesia,0.021,w,494
+1161448,Aguascalientes,Mexico,0.0159,w,495
+1155732,Samara,Russia,-0.0016,w,496
+1155073,Shimkent,Kazakhstan,0.026,w,497
+1144799,Ufa,Russia,0.0021,w,498
+1143715,Cologne,Germany,0.0059,w,499
+1140599,Xinxiang,China,0.0181,w,500
+1138854,Rostov-on-Don,Russia,0.0007,w,501
+1135671,Yongin,South Korea,0.0133,w,502
+1133629,Zaozhuang,China,0.0147,w,503
+1131361,Wenling,China,0.0272,w,504
+1128646,Bobo-Dioulasso,Burkina Faso,0.0506,w,505
+1127198,Hargeysa,Somalia,0.0443,w,506
+1126249,Siliguri,India,0.0314,w,507
+1123843,Cuernavaca,Mexico,0.0148,w,508
+1120694,Fuyang,China,0.0249,w,509
+1120675,Panjin,China,0.0204,w,510
+1118826,Jalandhar,India,0.0208,w,511
+1116295,Chihuahua,Mexico,0.0181,w,512
+1116052,San Salvador,El Salvador,0.0048,w,513
+1112680,Ma'anshan,China,0.0274,w,514
+1110824,Bien Hoa,Vietnam,0.0301,w,515
+1106736,Shangrao,China,0.0234,w,516
+1105283,Goyang,South Korea,0.0095,w,517
+1104742,Bishkek,Kyrgyzstan,0.0208,w,518
+1103202,Zhaoqing,China,0.0238,w,519
+1100324,Samarinda,Indonesia,0.0271,w,520
+1100271,Fuzhou Jiangxi,China,0.0324,w,521
+1096937,Diyarbakir,Turkey,0.0166,w,522
+1094813,Yerevan,Armenia,0.0026,w,523
+1094510,Managua,Nicaragua,0.0105,w,524
+1093308,Ikorodu,Nigeria,0.0501,w,525
+1089886,Jingzhou Hubei,China,0.0167,w,526
+1087599,Cartagena,Colombia,0.008,w,527
+1087409,Leshan,China,0.0299,w,528
+1086214,Johor Bahru,Malaysia,0.0196,w,529
+1085992,Oslo,Norway,0.0139,w,530
+1084969,Chenzhou,China,0.037,w,531
+1084623,Kermanshah,Iran,0.0171,w,532
+1082245,Tbilisi,Georgia,0.0018,w,533
+1081768,Perm,Russia,0.0027,w,534
+1080808,Voronezh,Russia,0.0034,w,535
+1080680,Dezhou,China,0.0284,w,536
+1079670,Aden,Yemen,0.0333,w,537
+1079120,Lille,France,0.0053,w,538
+1078630,Yichun Jiangxi,China,0.0478,w,539
+1077929,Sekondi Takoradi,Ghana,0.0416,w,540
+1077108,Tshikapa,DR Congo,0.0523,w,541
+1074884,Kirkuk,Iraq,0.022,w,542
+1072666,Asmara,Eritrea,0.0365,w,543
+1070322,Solapur,India,0.0146,w,544
+1069402,Mersin,Turkey,0.0159,w,545
+1067651,Huzhou,China,0.0245,w,546
+1063876,Xuchang,China,0.0292,w,547
+1060460,Toulouse,France,0.0107,w,548
+1059902,Changshu,China,0.0367,w,549
+1057215,Antwerp,Belgium,0.0044,w,550
+1056986,Aracaju,Brazil,0.0139,w,551
+1056952,Nyala,Sudan,0.0441,w,552
+1054442,Changwon,South Korea,0.0002,w,553
+1053041,Denpasar,Indonesia,0.0216,w,554
+1050459,Teresina,Brazil,0.0091,w,555
+1049690,Marrakech,Morocco,0.0161,w,556
+1048889,Yueyang,China,0.0139,w,557
+1047251,Tampico,Mexico,0.0149,w,558
+1038964,Qujing,China,0.0301,w,559
+1034126,Saltillo,Mexico,0.0163,w,560
+1033645,Padang,Indonesia,0.0183,w,561
+1033430,San Jose,United States,0.0066,w,562
+1031090,Warangal,India,0.024,w,563
+1030974,Blantyre-Limbe,Malawi,0.0362,w,564
+1030498,Ilorin,Nigeria,0.03,w,565
+1026767,San Miguel de Tucuman,Argentina,0.0129,w,566
+1024945,Cebu City,Philippines,0.0161,w,567
+1023756,Xintai,China,0.0278,w,568
+1022604,Cancun,Mexico,0.0245,w,569
+1020399,Guiping,China,0.0406,w,570
+1018976,Acapulco de Juarez,Mexico,0.0135,w,571
+1018012,Rotterdam,Netherlands,0.0033,w,572
+1013293,Austin,United States,0.0172,w,573
+1013240,Kayseri,Turkey,0.0129,w,574
+1008599,Valparaiso,Chile,0.0081,w,575
+1007716,Odesa,Ukraine,-0.0003,w,576
+1005007,Songkhla,Thailand,0.0129,w,577
+1001155,Krasnodar,Russia,0.0122,w,578
+1000947,Nonthaburi,Thailand,0.0129,w,579
+1000475,Bordeaux,France,0.0099,w,580
+999721,Pingxiang Jiangxi,China,0.0235,w,581
+995747,Hamah,Syria,0.0328,w,582
+995078,Volgograd,Russia,-0.0025,w,583
+993175,Jixi Heilongjiang,China,0.0157,w,584
+993097,Chengde,China,0.0364,w,585
+991876,Dehradun,India,0.0252,w,586
+991208,Zhucheng,China,0.0324,w,587
+988744,Morelia,Mexico,0.0139,w,588
+987960,Jacksonville,United States,0.0131,w,589
+986921,Warri,Nigeria,0.0469,w,590
+986899,Dushanbe,Tajikistan,0.0257,w,591
+986248,Laiwu,China,0.0261,w,592
+984193,Misratah,Libya,0.0322,w,593
+983352,Owerri,Nigeria,0.0405,w,594
+982777,Jiujiang,China,0.0235,w,595
+982021,San Pedro Sula,Honduras,0.0276,w,596
+979248,Agadir,Morocco,0.0196,w,597
+978327,Leiyang,China,0.0417,w,598
+975348,Mudanjiang,China,0.0177,w,599
+972228,Fort Worth,United States,0.0186,w,600
+970129,Jos,Nigeria,0.0297,w,601
+969804,Jerusalem,Israel,0.0135,w,602
+969322,Nampula,Mozambique,0.0451,w,603
+967428,Guigang,China,0.0259,w,604
+964291,Sylhet,Bangladesh,0.0393,w,605
+964266,Ciudad Guayana,Venezuela,0.0155,w,606
+963045,Cucuta,Colombia,0.0101,w,607
+961991,Rajshahi,Bangladesh,0.0211,w,608
+960349,Zamboanga City,Philippines,0.0164,w,609
+958998,Arequipa,Peru,0.0128,w,610
+958548,Lubango,Angola,0.0482,w,611
+958487,Najaf,Iraq,0.031,w,612
+958335,Bangui,Central African Republic,0.027,w,613
+956079,Yangjiang,China,0.023,w,614
+955663,Hengshui,China,0.0334,w,615
+955519,Zhangzhou,China,0.0285,w,616
+955226,Veracruz,Mexico,0.0134,w,617
+955104,Khulna,Bangladesh,0.0057,w,618
+953768,Tianmen,China,0.0286,w,619
+952278,Xinyu,China,0.0321,w,620
+951822,Linfen,China,0.0318,w,621
+951531,Southampton,United Kingdom,0.0083,w,622
+951417,Reynosa,Mexico,0.0181,w,623
+950048,Pathum Thani,Thailand,0.0129,w,624
+948149,Nice,France,0.003,w,625
+946653,Antipolo,Philippines,0.0235,w,626
+944465,Bengbu,China,0.0161,w,627
+943530,Villahermosa,Mexico,0.016,w,628
+941586,Dnipro,Ukraine,-0.0053,w,629
+941508,Seongnam,South Korea,-0.0001,w,630
+941364,Columbus,United States,0.0128,w,631
+940600,Taiz,Yemen,0.0362,w,632
+939166,Deyang,China,0.0284,w,633
+936997,Liling,China,0.0424,w,634
+935947,Oran,Algeria,0.0148,w,635
+934341,West Rand,South Africa,0.0139,w,636
+933395,Jiangyin,China,0.0312,w,637
+927532,Baishan,China,0.0365,w,638
+926095,Campo Grande,Brazil,0.0102,w,639
+922425,Londrina,Brazil,0.0125,w,640
+919654,Bahawalpur,Pakistan,0.0281,w,641
+919443,Malang,Indonesia,0.0138,w,642
+918324,Guntur,India,0.0241,w,643
+917936,Dandong,China,0.0158,w,644
+917527,Charlotte,United States,0.0159,w,645
+917032,Liverpool,United Kingdom,0.006,w,646
+915060,Hermosillo,Mexico,0.0171,w,647
+914036,La Plata,Argentina,0.0109,w,648
+913376,Bergamo,Italy,0.0068,w,649
+912734,Ulsan,South Korea,0.0013,w,650
+911862,Concepcion,Chile,0.0108,w,651
+910743,Changzhi,China,0.0234,w,652
+907802,Indianapolis,United States,0.0075,w,653
+906581,Bhiwandi,India,0.019,w,654
+905814,Bogra,Bangladesh,0.0482,w,655
+904676,Cabinda,Angola,0.0497,w,656
+904139,Umuahia,Nigeria,0.0506,w,657
+903896,Trujillo,Peru,0.0145,w,658
+903815,Tyumen,Russia,0.0189,w,659
+902353,Ashgabat,Turkmenistan,0.0215,w,660
+900692,Liaoyang,China,0.0174,w,661
+898338,Changde,China,0.025,w,662
+897983,Puducherry,India,0.0239,w,663
+897694,Tuxtla Gutierrez,Mexico,0.0182,w,664
+896716,Erbil,Iraq,0.0214,w,665
+895111,Shangqiu,China,0.0252,w,666
+894584,San Francisco,United States,0.0077,w,667
+894388,Firozabad,India,0.0278,w,668
+892254,Soshanguve,South Africa,0.0151,w,669
+888620,Culiacan,Mexico,0.0183,w,670
+887716,Donetsk,Ukraine,-0.0064,w,671
+886381,Xingtai,China,0.021,w,672
+876930,Huangshi,China,0.019,w,673
+876131,Fuxin,China,0.0152,w,674
+875496,Kuerle,China,0.0418,w,675
+872438,Hufuf-Mubarraz,Saudi Arabia,0.014,w,676
+871457,Quzhou,China,0.0419,w,677
+870465,Cherthala,India,0.0401,w,678
+869773,Libreville,Gabon,0.0151,w,679
+869625,Tainan,Taiwan,0.0072,w,680
+864910,Yibin,China,0.0199,w,681
+861978,Xinghua,China,0.0268,w,682
+860522,Yongzhou,China,0.0296,w,683
+859209,Banghazi,Libya,0.0135,w,684
+857683,Luzhou,China,0.0147,w,685
+857225,Ipoh,Malaysia,0.0177,w,686
+855191,Xinyang,China,0.0225,w,687
+851630,Yangquan,China,0.0225,w,688
+849687,Palermo,Italy,0,w,689
+849580,Xiaogan,China,0.0256,w,690
+846560,Enugu,Nigeria,0.0327,w,691
+844747,Maiduguri,Nigeria,0.0273,w,692
+844249,Quebec City,Canada,0.0077,w,693
+843754,Huaihua,China,0.035,w,694
+841108,Winnipeg,Canada,0.0098,w,695
+839046,Lokoja,Nigeria,0.0611,w,696
+838377,Saratov,Russia,-0.0013,w,697
+838301,Valencia,Spain,0.0017,w,698
+837479,Tianshui,China,0.028,w,699
+835900,Orumiyeh,Iran,0.0163,w,700
+834782,Zhuji,China,0.0228,w,701
+834065,Eskisehir,Turkey,0.019,w,702
+830125,Bozhou,China,0.0341,w,703
+826981,Bucheon,South Korea,-0.0011,w,704
+826777,Heze,China,0.0141,w,705
+826414,Kunshan,China,0.0345,w,706
+825581,Barcelona-Puerto La Cruz,Venezuela,0.0128,w,707
+823431,Newcastle upon Tyne,United Kingdom,0.0061,w,708
+821192,Haicheng,China,0.0163,w,709
+821132,Huludao,China,0.0191,w,710
+818628,Kottayam,India,0.0491,w,711
+818566,Bikaner,India,0.0204,w,712
+818057,Jincheng,China,0.0332,w,713
+816293,Nellore,India,0.0272,w,714
+814524,Thessaloniki,Greece,0.0009,w,715
+814332,Bologna,Italy,0.0032,w,716
+813394,Gebze,Turkey,0.026,w,717
+813369,Liaocheng,China,0.0216,w,718
+813320,Sorocaba,Brazil,0.0107,w,719
+812090,Bunia,DR Congo,0.0579,w,720
+811451,Taixing,China,0.0258,w,721
+811041,Xalapa,Mexico,0.0148,w,722
+809468,Benguela,Angola,0.042,w,723
+807833,Langfang,China,0.0275,w,724
+806757,Nottingham,United Kingdom,0.0079,w,725
+804537,Zhumadian,China,0.0354,w,726
+803194,Cagayan de Oro City,Philippines,0.0215,w,727
+802600,Dasmarinas,Philippines,0.0234,w,728
+801853,Nakhon Ratchasima,Thailand,0.0119,w,729
+800793,Sulaimaniya,Iraq,0.0276,w,730
+800010,Zanzibar,Tanzania,0.0439,w,731
+798382,Ar-Rayyan,Qatar,0.0244,w,732
+797964,Gaomi,China,0.033,w,733
+797865,Niigata,Japan,-0.0025,w,734
+796756,Meishan,China,0.0299,w,735
+796509,Jiaozuo,China,0.0138,w,736
+796437,Frankfurt,Germany,0.0066,w,737
+795835,Hanchuan,China,0.0327,w,738
+793927,Vereeniging,South Africa,0.0099,w,739
+792620,Amravati,India,0.0187,w,740
+791931,Anqiu,China,0.0444,w,741
+791214,Muzaffarnagar,India,0.0314,w,742
+789755,Danyang,China,0.0292,w,743
+788276,Gorakhpur,India,0.015,w,744
+786192,Kayamkulam,India,0.0382,w,745
+784230,Shaoguan,China,0.0116,w,746
+783243,Malanje,Angola,0.0531,w,747
+781047,Hamilton,Canada,0.0068,w,748
+779535,Anqing,China,0.0225,w,749
+778280,Bur Sa'id,Egypt,0.0185,w,750
+778187,Gaza,Palestine,0.0292,w,751
+776076,Linhai,China,0.0281,w,752
+775559,Cuttack,India,0.0165,w,753
+775523,Seattle,United States,0.0168,w,754
+774321,Erduosi-Ordoss,China,0.0284,w,755
+771515,Oshogbo,Nigeria,0.029,w,756
+771514,Ibb,Yemen,0.0547,w,757
+770959,Banjarmasin,Indonesia,0.018,w,758
+769417,Krakow,Poland,-0.0002,w,759
+768075,Zigong,China,0.0146,w,760
+767188,Yan'an,China,0.0371,w,761
+767161,Belgaum,India,0.0199,w,762
+766782,Qingyuan,China,0.0151,w,763
+766703,Ansan,South Korea,0.0027,w,764
+766007,Zaria,Nigeria,0.0223,w,765
+764628,Malegaon,India,0.0225,w,766
+762981,Kitwe,Zambia,0.0374,w,767
+761169,Shaoyang,China,0.0211,w,768
+760129,Merca,Somalia,0.0445,w,769
+759150,Dengzhou,China,0.0362,w,770
+758185,Maturin,Venezuela,0.0259,w,771
+757224,Yanji,China,0.0268,w,772
+756158,Tongliao,China,0.0236,w,773
+754711,Yuncheng,China,0.034,w,774
+753325,Sialkot,Pakistan,0.0229,w,775
+752916,Tongling,China,0.0246,w,776
+752744,Tirupati,India,0.0324,w,777
+751679,Wuzhou,China,0.0242,w,778
+750130,Denver,United States,0.0156,w,779
+750102,Yuxi,China,0.0373,w,780
+750097,Suining Sichuan,China,0.0224,w,781
