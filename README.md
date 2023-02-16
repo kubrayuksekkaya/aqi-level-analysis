@@ -2,6 +2,7 @@
 
 ## Introduction
 
+Air pollution is a growing concern for many countries and cities around the world. The negative impact of air pollution on human health and the environment has led to an urgent need to better understand the factors that contribute to air pollution levels. This project aims to conduct a comprehensive analysis of the correlation and relationship between air pollution levels and certain factors such as manufacturing levels, population density, and urbanization in different countries and cities. Using statistical methods and machine learning techniques, the project will identify the main factors that contribute to air pollution levels and how they are correlated in different countries. With this understanding, the project aims to develop a model that predicts pollution levels based on the identified factors, which will be deployed and made available for use, and continuously monitored for performance and updated as needed. The ultimate goal of the project is to contribute to the development of effective policies and interventions to reduce air pollution levels and promote a healthier environment for everyone.
 
 ## Installation
 
